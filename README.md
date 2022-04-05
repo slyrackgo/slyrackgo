@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kotlin and C++(currently building small apps in Kotlin)
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on ...
-- 📫 Here is my telegram acc(https://t.me/s1yrackgo)
+- 📫 Here is my telegram channel(https://t.me/s1yrackgo)
 
 <!---
 slyrackgo/slyrackgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
