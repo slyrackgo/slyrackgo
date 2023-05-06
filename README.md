@@ -46,5 +46,8 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default" alt="solidity" width="40" height="40"/>
   </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.imgbin.com/2/13/7/imgbin-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-BpRjVRjNjza93dh8Ta4UdtKUn.jpg" alt="ethereum" width="40" height="40"/>
+  </a>
 </p>
 
