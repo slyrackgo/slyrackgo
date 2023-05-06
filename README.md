@@ -44,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://solidity-fr.readthedocs.io/fr/latest/_images/logo.svg" alt="solidity" width="60" height="75" padding="21"/>
+    <img src="https://solidity-fr.readthedocs.io/fr/latest/_images/logo.svg" alt="solidity" width="60" height="75" padding="-21"/>
   </a>
 </p>
 
