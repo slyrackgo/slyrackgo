@@ -47,5 +47,8 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/2048px-Ethereum-icon-purple.svg.png" alt="ethereum" width="40" height="40"/>
   </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://gfiblockchain.com/wp-content/uploads/2022/04/BscScan-la-gi-1.jpg" alt="ethereum" width="40" height="40"/>
+  </a>
 </p>
 
