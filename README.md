@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **pet projects**
 
-- 🌱 I’m currently studying in the bootcamp from Encode Club **in the bootcamp from Encode Club.**
+<!-- - 🌱 I’m currently studying in the bootcamp from Encode Club **in the bootcamp from Encode Club.** -->
 
 - 📝 I regularly write articles on [https://t.me/s1yrack29](https://t.me/s1yrack29)
 
