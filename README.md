@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://t.me/s1yrack29](https://t.me/s1yrack29)
 
-- 📫 How to reach me **aibragimov2003@bk.ru**
+- 📫 How to reach me **w65934@student.wsiz.edu.pl**
 
 - ⚡ Fun fact **I love gym!**
 
