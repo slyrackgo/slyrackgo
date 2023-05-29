@@ -51,8 +51,7 @@
     <img src="https://bscscan.com/images/brandassets/BscScan-logo-light.png" alt="bscscan" width="115" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/slyrackgo/slyrackgo/assets/58735260/f650be3c-5c9d-4c4d-acb2-65a7a461de1d)
-" alt="bscscan" width="115" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png" alt="rust" width="115" height="40"/>
   </a>
 </p>
 
