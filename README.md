@@ -51,7 +51,7 @@
     <img src="https://bscscan.com/images/brandassets/BscScan-logo-light.png" alt="bscscan" width="115" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="55" height="40"/>
+    <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
   </a>
 </p>
 
