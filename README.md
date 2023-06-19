@@ -48,7 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/2048px-Ethereum-icon-purple.svg.png" alt="ethereum" width="40" height="40"/>
   </a>
     <a href="https://testnet.bscscan.com/" target="_blank" rel="noreferrer">
-    <img src="https://bscscan.com/images/brandassets/BscScan-logo-light.png" alt="bscscan" width="100" height="40"/>
+    <img src="https://bscscan.com/images/brandassets/BscScan-logo-light.png" alt="bscscan" width="105" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
