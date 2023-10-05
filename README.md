@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atai</h1>
+![image](https://github.com/slyrackgo/slyrackgo/assets/58735260/12258901-10f5-4fa1-8a4f-80708fb275a5)<h1 align="center">Hi 👋, I'm Atai</h1>
 <h3 align="center">A passionate blockchain developer</h3>
 <img align="right" width="300" src="https://gamztube.files.wordpress.com/2019/02/1_ouvhfpwmk04-mcy091hxeg-2.gif">
 
@@ -48,7 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/2048px-Ethereum-icon-purple.svg.png" alt="ethereum" width="40" height="40"/>
   </a>
     <a href="https://testnet.bscscan.com/" target="_blank" rel="noreferrer">
-    <img src="https://bscscan.com/images/brandassets/BscScan-logo-light.png" alt="bscscan" width="112" height="40"/>
+    <img src="https://bscscan.com/assets/bsc/images/svg/logos/logo-bscscan.svg?v=23.9.3.0" alt="bscscan" width="112" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
