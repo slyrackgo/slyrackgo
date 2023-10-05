@@ -1,6 +1,6 @@
 ![image](https://github.com/slyrackgo/slyrackgo/assets/58735260/12258901-10f5-4fa1-8a4f-80708fb275a5)<h1 align="center">Hi 👋, I'm Atai</h1>
 <h3 align="center">A passionate blockchain developer</h3>
-<img align="right" width="300" src="https://gamztube.files.wordpress.com/2019/02/1_ouvhfpwmk04-mcy091hxeg-2.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slyrackgo&label=Profile%20views&color=0e75b6&style=flat" alt="slyrackgo" /> </p>
 
