@@ -1,4 +1,4 @@
-![image](https://github.com/slyrackgo/slyrackgo/assets/58735260/12258901-10f5-4fa1-8a4f-80708fb275a5)<h1 align="center">Hi 👋, I'm Atai</h1>
+<h1 align="center">Hi 👋, I'm Atai</h1>
 <h3 align="center">A passionate blockchain developer</h3>
 
 
