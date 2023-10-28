@@ -6,7 +6,6 @@
 
 
 
-- 🔭 I’m currently working on **pet projects**
 
 <!-- - 🌱 I’m currently studying in the bootcamp from Encode Club **in the bootcamp from Encode Club.** -->
 
