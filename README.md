@@ -50,8 +50,7 @@
     <img src="https://bscscan.com/assets/bsc/images/svg/logos/logo-bscscan.svg?v=23.9.3.0" alt="bscscan" width="112" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/b67ac068-cb31-4936-809b-c8e9d6ef1ab8)
-" alt="rust" width="40" height="40"/>
+    <img src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png" alt="rust" width="40" height="40"/>
   </a>
 </p>
 
